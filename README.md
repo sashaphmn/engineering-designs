@@ -87,7 +87,7 @@ Keeping yourself in a purposeful, user-centric mindset is a discipline.
 
 |                      |                                   |
 | -------------------- | --------------------------------- |
-| Issue                | [title](github.com/link/to/issue) |
+| Issue                | [title](issues)                   |
 | Owners               | @you                              |
 | Approvers            | @alice @bob                       |
 | Target Approval Date | YYYY-MM-DD                        |
