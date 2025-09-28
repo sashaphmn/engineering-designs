@@ -85,12 +85,12 @@ Keeping yourself in a purposeful, user-centric mindset is a discipline.
 
 # Template
 
-|                      |                                   |
-| -------------------- | --------------------------------- |
-| Issue                | [title](github.com/link/to/issue) |
-| Owners               | @you                              |
-| Approvers            | @alice @bob                       |
-| Target Approval Date | YYYY-MM-DD                        |
+|                      |                                       |
+| -------------------- | ---------------------------------     |
+| Issue                | [title](./engineering-designs/issues) |
+| Owners               | @you                                  |
+| Approvers            | @alice @bob                           |
+| Target Approval Date | YYYY-MM-DD                            |
 
 
 ## Executive Summary
